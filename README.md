@@ -1,7 +1,13 @@
 # docker-mininet
 Mininet in a Docker container
 
-Easy two step process!
+Pull it from the Docker Hub:
+
+```
+docker pull chickenmaru/nettools
+```
+
+Alternatively, build it yourself:
 
 ```
 make
