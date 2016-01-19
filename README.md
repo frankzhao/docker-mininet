@@ -4,7 +4,7 @@ Mininet in a Docker container
 Pull it from the Docker Hub:
 
 ```
-docker pull chickenmaru/nettools
+docker pull chickenmaru/mininet
 ```
 
 Alternatively, build it yourself:
